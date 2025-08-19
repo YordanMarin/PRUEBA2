@@ -12,6 +12,7 @@ namespace prueba
         {
             Console.WriteLine("Primera subida");
             Console.WriteLine("Segunda subida");
+            Console.WriteLine("Tercera subida");
         }
     }
 }
